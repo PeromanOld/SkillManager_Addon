@@ -988,6 +988,32 @@ set.uid = "Warrior"
 set.profession = GW2.CHARCLASS.Warrior
 set.icon = "Warrior"
 set.skills_luacode = {
+
+	[14375] = {
+		slot = GW2.SKILLBARSLOT.Slot_12,
+		activationtime = 0.5,
+		icon = "Arcing Slice"
+	},
+	[14545] = {
+		slot = GW2.SKILLBARSLOT.Slot_12,
+		activationtime = 0.5,
+		icon = "Arcing Slice"
+	},
+	[14546] = {
+		slot = GW2.SKILLBARSLOT.Slot_12,
+		activationtime = 0.5,
+		icon = "Arcing Slice"
+	},
+	[14547] = {
+		slot = GW2.SKILLBARSLOT.Slot_12,
+		activationtime = 0.5,
+		icon = "Arcing Slice"
+	},
+	[42707] = {
+		slot = GW2.SKILLBARSLOT.Slot_12,
+		activationtime = 0.5,
+		icon = "Arcing Slice"
+	},
 	[14375] = {
 		slot = GW2.SKILLBARSLOT.Slot_13,
 		activationtime = 0.5,
